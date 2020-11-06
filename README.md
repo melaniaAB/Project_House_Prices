@@ -8,7 +8,7 @@
 * [Packages and approaches](#R)
 * [Status](#status)
 * [Inspiration](#inspiration)
-* [Files] (#files) 
+* [Files](#files) 
 
 ## General info
 House features such as location, size, year ... play important role in defining the house prices. Can we udnerstand the features relationships and the price?
